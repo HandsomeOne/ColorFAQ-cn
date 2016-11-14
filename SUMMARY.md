@@ -4,7 +4,7 @@
 * [什么是色彩？](docs/01.md)
 * [什么是光强度？](docs/02.md)
 * [什么是光亮度？](docs/03.md)
-* [What is lightness?](docs/04.md)
+* [什么是明度？](docs/04.md)
 * [What is hue?](docs/05.md)
 * [What is saturation?](docs/06.md)
 * [How is color specified?](docs/07.md)
