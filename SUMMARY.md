@@ -1,7 +1,7 @@
 # 目录
 
 * [介绍](README.md)
-* [What is color?](docs/01.md)
+* [什么是色彩？](docs/01.md)
 * [What is intensity?](docs/02.md)
 * [What is luminance?](docs/03.md)
 * [What is lightness?](docs/04.md)
