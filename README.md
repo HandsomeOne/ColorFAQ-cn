@@ -1,6 +1,6 @@
 # 色彩 FAQ
 
-- 开始阅读：https://handsomeone.gitbooks.io/color-faq-cn
+- 开始阅读：https://handsomeone.gitbooks.io/color-faq-cn/content/
 - GitHub：https://github.com/HandsomeOne/ColorFAQ-cn
 
 **本文全文翻译自 http://www.poynton.com/ColorFAQ.html ，版权归原作者所有。**
