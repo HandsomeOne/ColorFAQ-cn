@@ -7,7 +7,7 @@
 * [什么是明度？](docs/04.md)
 * [什么是色相？](docs/05.md)
 * [什么是饱和度？](docs/06.md)
-* [How is color specified?](docs/07.md)
+* [色彩是怎样被指定的？](docs/07.md)
 * [Should I use a color specification system for image data?](docs/08.md)
 * [What weighting of red, green and blue corresponds to brightness?](docs/09.md)
 * [Can blue be assigned fewer bits than red or green?](docs/10.md)
