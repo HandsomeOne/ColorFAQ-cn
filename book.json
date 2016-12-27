@@ -1,6 +1,7 @@
 {
   "plugins": [
     "-sharing",
+    "-search",
     "-highlight",
     "katex"
   ]
