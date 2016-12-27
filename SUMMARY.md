@@ -10,7 +10,7 @@
 * [色彩是怎样被指定的？](docs/07.md)
 * [我应该为图像数据使用一种表色系统吗？](docs/08.md)
 * [红绿蓝对于亮度的比重有多大？](docs/09.md)
-* [Can blue be assigned fewer bits than red or green?](docs/10.md)
+* [比起红色或绿色，可以为蓝色分配更少的位吗？](docs/10.md)
 * [What is "luma"?](docs/11.md)
 * [What are CIE XYZ components?](docs/12.md)
 * [Does my scanner use the CIE spectral curves?](docs/13.md)
