@@ -11,7 +11,7 @@
 * [我应该为图像数据使用一种表色系统吗？](docs/08.md)
 * [红绿蓝对于亮度的比重有多大？](docs/09.md)
 * [比起红色或绿色，可以为蓝色分配更少的位吗？](docs/10.md)
-* [What is "luma"?](docs/11.md)
+* [什么是视频亮度（luma）？](docs/11.md)
 * [What are CIE XYZ components?](docs/12.md)
 * [Does my scanner use the CIE spectral curves?](docs/13.md)
 * [What are CIE x and y chromaticity coordinates?](docs/14.md)
